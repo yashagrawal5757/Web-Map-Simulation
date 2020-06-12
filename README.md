@@ -35,17 +35,18 @@ It is a Computer Graphics project in which a narrative is demonstrated with help
 	- Press b to enable Rick's cloud
 
 **Output**
-<img src="output/1st.PNG" align="left" width="550" height="250">
 
-<img src="output/2nd.PNG" align="left" width="550" height="250">
+<img src="output/1st.PNG" align="left" width="550" height="300">
 
-<img src="output/3rd.PNG" align="left" width="550" height="250">
+<img src="output/2nd.PNG" align="left" width="550" height="300">
 
-<img src="output/4th.PNG" align="left" width="550" height="250">
+<img src="output/3rd.PNG" align="left" width="550" height="300">
 
-<img src="output/5th.PNG" align="left" width="550" height="250">
+<img src="output/4th.PNG" align="left" width="550" height="300">
 
-<img src="output/6th.PNG" align="left" width="550" height="250">
+<img src="output/5th.PNG" align="left" width="550" height="300">
+
+<img src="output/6th.PNG" align="left" width="550" height="300">
 
 
 
